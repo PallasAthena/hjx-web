@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hjx-web/static/css/main.d2bff28a.chunk.css",
+    "main.js": "/hjx-web/static/js/main.672b7e7a.chunk.js",
+    "main.js.map": "/hjx-web/static/js/main.672b7e7a.chunk.js.map",
+    "runtime~main.js": "/hjx-web/static/js/runtime~main.69574a4b.js",
+    "runtime~main.js.map": "/hjx-web/static/js/runtime~main.69574a4b.js.map",
+    "static/js/2.fa79baec.chunk.js": "/hjx-web/static/js/2.fa79baec.chunk.js",
+    "static/js/2.fa79baec.chunk.js.map": "/hjx-web/static/js/2.fa79baec.chunk.js.map",
+    "index.html": "/hjx-web/index.html",
+    "precache-manifest.fdedc65ad1e440633374573e7017d023.js": "/hjx-web/precache-manifest.fdedc65ad1e440633374573e7017d023.js",
+    "service-worker.js": "/hjx-web/service-worker.js",
+    "static/css/main.d2bff28a.chunk.css.map": "/hjx-web/static/css/main.d2bff28a.chunk.css.map",
+    "static/media/1561713950840.jpg": "/hjx-web/static/media/1561713950840.8ad9e5de.jpg",
+    "static/media/WX20190628-164744.png": "/hjx-web/static/media/WX20190628-164744.b8e89c3f.png",
+    "static/media/WX20190628-164803.png": "/hjx-web/static/media/WX20190628-164803.277fe2fe.png",
+    "static/media/carousel_1.png": "/hjx-web/static/media/carousel_1.3ef620f3.png",
+    "static/media/carousel_2.png": "/hjx-web/static/media/carousel_2.15121467.png",
+    "static/media/carousel_4.png": "/hjx-web/static/media/carousel_4.774601fe.png",
+    "static/media/carousel_5.png": "/hjx-web/static/media/carousel_5.833bc8c7.png"
+  }
+}
