@@ -1,0 +1,183 @@
+body{
+
+font-family:"Microsoft Yahei";
+color: #465059;
+}
+
+.navbar{
+  padding-left: 5rem;
+}
+
+
+.navbar-nav{
+  padding-left: 5rem;
+}
+
+.navbar-collapse .navbar-nav .nav-link{
+  padding-right: 2.5rem;
+}
+
+.nav-link{
+  font-size: 1.1em !important;
+
+}
+
+
+footer{
+    background-color: #465059;
+    color: #8e9399;
+}
+
+.padding{
+  padding: 2rem;
+}
+
+.padding-4{
+  padding: 2rem 10rem 2rem 10rem;
+}
+
+.social a{
+  font-size: 4.5em;
+  padding: 3rem ;
+}
+
+.btn-detail{
+  color: #ff5f01;
+  border: 1px solid #ff5f01;
+}
+
+.btn-detail:hover{
+  background-color: #ed5300;
+  border: 1px solid #ed5300;
+}
+
+.welcome{
+  width: 75%;
+  margin: 0 auto;
+}
+
+.welcome hr{
+  border-top: 2px solid #b4b4b4;
+  width: 95%;
+  margin-top: .3rem;
+  margin-bottom: 0rem;
+}
+
+.icon-padding{
+    max-width: 60%;
+    height:auto;
+    padding: .6rem .6rem .6rem .6rem;
+      background-color: #f8f9fa;
+      margin: .2rem 0 .2rem 0;
+  }
+
+
+.padding-block {
+    padding: .2rem;
+}
+
+.padding-top-2{
+    padding-top: 2rem;
+
+}
+
+.news{
+    padding-top: 1rem;
+    padding-right: .2rem;
+    padding-left: .2rem;
+}
+
+/*---Media Queries --*/
+
+@media (min-width: 992px) {
+
+  .display-4{
+    font-size: 190%;
+  }
+
+   #bavblocks{
+       display: none;
+   }
+}
+
+
+@media (max-width: 992px) {
+  .social a {
+    font-size: 4em;
+    padding: 2rem 0 2rem;
+
+  }
+
+}
+@media (max-width: 768px) {
+
+  .display-4{
+    font-size: 200%;
+  }
+  .social a {
+    font-size: 2.5em;
+    padding: 1.2rem;
+
+  }
+   .padding-4{
+    padding: 2.5rem;
+  }
+
+}
+
+@media (max-width: 576px) {
+
+   .navbar{
+  padding-left: 1rem;
+  }
+
+  .navbar-nav {
+    padding-left: .5rem;
+ }
+
+  .padding{
+    padding: 1rem;
+  }
+
+  .display-4{
+    font-size: 120%;
+  }
+
+  .padding-4{
+    padding: 2rem;
+  }
+
+  .social .img-fluid {
+    max-width: 15%;
+  }
+
+  .social a {
+    font-size: 1.5em;
+    padding: .5rem;
+  }
+
+
+
+  .col-4{
+      padding-right: 0rem;
+      padding-left: 0;
+  }
+
+  footer .img-fluid{
+    max-width: 45%;
+  }
+
+  footer p{
+    font-size: .5em;
+    margin-top: 1rem;
+    margin-bottom: 0;
+  }
+
+  .col-lg-6{
+      padding-left: .2rem;
+      padding-right: .2rem;
+  }
+
+
+
+}
